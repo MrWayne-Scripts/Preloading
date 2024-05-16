@@ -1,4 +1,4 @@
-## 📲 Installation
+## ⚙️ Installation
 1. Download latest release or source code
 2. Extract the .zip file
 3. Copy the folder to your server resources folder
