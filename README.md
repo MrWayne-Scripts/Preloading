@@ -7,8 +7,8 @@
 
 
 README: 
-Open server.js and set
-9: Text - Name server
-16: Logo URL
-25: Title/Play : Play button
+Open server.js and set,
+9: Text - Name server, 
+16: Logo URL, 
+25: Title/Play : Play button, 
 31: Discord URL
