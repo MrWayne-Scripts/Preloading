@@ -7,11 +7,11 @@ description 'MrWayne-Scripts_Preloading'
 version '1.0.0'
 
 client_scripts {
-	'preloading/server.js'
+	'mrw_preloading/server.js'
 }
 
 server_scripts {
-	'preloading/server.js'
+	'mrw_preloading/server.js'
 }
 
 lua54 'yes'
